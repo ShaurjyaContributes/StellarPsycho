@@ -1,2 +1,2 @@
 # StellarPsycho
-Psychological tests for stress and focus tests
+Psychological tests for stress and focus study
